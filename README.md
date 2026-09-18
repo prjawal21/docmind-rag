@@ -1,0 +1,1 @@
+**A hybrid-search RAG system that answers questions over PDFs with page-level, verified citations**
